@@ -1,0 +1,31 @@
+#d1{
+border-style:inset;
+padding: 30px;
+margin: 50px;
+background:black;
+font-family:comic Sans MS;
+WIDTH:250PX;
+HEIGHT:100PX;}
+#d2{
+border-style:outset;
+padding: 30px;
+margin:25px;
+background:black;
+font-family:comic Sans MS;
+WIDTH:500PX;
+    HEIGHT:100PX;
+}
+ #myImage {
+        width: 80px;
+        height: 80px;
+      padding:5px;
+     margin:5px;
+     border:50px;
+     float: left;
+      } 
+#p{font-family:comic Sans MS;}
+h3{color:white;}
+body{background-color:black;}
+button{color:white;
+background:black;}
+a{color:white;}
